@@ -10,6 +10,7 @@
    - g++ -o patolli main.o Board.o Player.o Referee.o     
 4. To run the code use the following command:
    - ./patolli
+5. To stop the code, type "CTRL + C"
   
 # Project Design
 
